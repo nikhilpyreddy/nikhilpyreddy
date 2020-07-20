@@ -55,7 +55,7 @@
 -->
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=8bithemant&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=nikhilpyreddy&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
@@ -80,7 +80,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
 </p>-->
-<!-->
+<!--
 ### - Podcast ⚡️
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
