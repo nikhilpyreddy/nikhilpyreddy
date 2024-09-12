@@ -47,9 +47,6 @@
 
 <br />
 
-
-**I am Into , 🙏**
-
 **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
 <br />
 -->
