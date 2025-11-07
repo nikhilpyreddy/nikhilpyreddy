@@ -50,11 +50,11 @@
 **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
 <br />
 -->
-<p align="center" >
+<!--<p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=nikhilpyreddy&&show_icons=true&theme=graywhite"/>
   </a>
-  </p>
+  </p>-->
 
 ---
 
